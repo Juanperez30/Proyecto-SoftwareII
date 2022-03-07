@@ -1,2 +1,2 @@
 {% load i18n %}
-{% blocktrans %}You have confirmed {{email}}.{% endblocktrans %}
+{% blocktrans %}Tu correo ha sido confirmado: {{email}}.{% endblocktrans %}
